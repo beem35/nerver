@@ -3,6 +3,8 @@ public class frame {
         System.out.println("frame");
         display.display();
         show.show();
+        bekk bell = new bekk() ;
+        bell.display();
     }
 }
 
