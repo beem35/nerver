@@ -11,4 +11,4 @@ class display{
     public static void display(){
         System.out.println("display_method");
     }
-    }
+}
